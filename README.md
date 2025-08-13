@@ -1,1 +1,1 @@
-# openwrt-t30-config
+# OpenWRT Build Instructions for WatchGuard T30
