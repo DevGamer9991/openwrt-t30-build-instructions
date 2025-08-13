@@ -1,1 +1,1 @@
-# OpenWRT Build Instructions for WatchGuard T30
+# OpenWRT Build Instructions for WatchGuard Firebox T30
