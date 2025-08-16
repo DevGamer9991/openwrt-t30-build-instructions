@@ -1,14 +1,10 @@
 # OpenWRT Build Instructions for WatchGuard Firebox T30 / T30-W
 
-This guide outlines the process to build / flash OpenWRT on the WatchGuard Firebox T30 / T30-W.
+This guide outlines the process to build / flash OpenWRT on the WatchGuard Firebox T30 / T30-W without needing to aquire the partition table of the device.
 
-The main issue with the T30 / T30-W is that the firmware can just brick itself randomly, And since really the only way to get it back is to either buy a t30 that has working firmware or to try and order a new SD card one from the manufacturer, but since the device is no longer being supported, you are left with very few options. 
+The reason its hard is because, before, you had to somehow aquire a working sd card with the partition table intact, and copy it to a new sd card.
 
-This is why I created this guide in the first place.
-
-I also like to tinker with old networking hardware, and the T30 / T30-W is a great candidate for running OpenWRT.
-
-It can be a bit tricky to get everything set up correctly, but that just adds to the fun!
+But heres a way that I found to do it without needing a working sd card.
 
 <br>
 
