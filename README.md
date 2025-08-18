@@ -260,7 +260,7 @@ You should see it booting up and displaying that it found the `t30.dtb` and the 
 
 Now connect your pc to the lan port of the device.
 
-Now, the way the device is booted is that it is running the kernel from RAM, and it not yet written the sysupdate to the sd card.
+Now, the way the device is booted is that it is running the kernel from the SD Card, and it not yet written the sysupdate to the flash chip.
 
 Therefore, any changes made to the system will be lost on reboot.
 
