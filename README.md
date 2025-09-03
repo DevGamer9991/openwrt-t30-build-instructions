@@ -33,6 +33,12 @@ You can clone the fork by using the following command:
 git clone https://github.com/dmascord/openwrt.git
 ```
 
+Then checkout the correct branch:
+
+```bash
+git checkout add-watchguard-t30
+```
+
 <br>
 
 ## Step 3: Build the firmware
